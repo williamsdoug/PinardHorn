@@ -1,0 +1,3 @@
+All artwork provided under creative commons
+
+All code licensed GPL v3 or later.

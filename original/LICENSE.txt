@@ -1,0 +1,4 @@
+All files in this directory are from http://things.hands.com/thing/foetoscope/ and are subject to licensing terms of original author 
+Philip Hands <phil at hands dot com> with additional contributions from: aubenc at thingiverse
+
+- PinardHornFoetoscope.stl licensed by original authors as GPLv3 or later
